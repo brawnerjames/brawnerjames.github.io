@@ -1,0 +1,109 @@
+#plot-image {
+    height: 170px;
+    width: 250px;
+}
+
+#plot-links {
+    height: 100px;
+    width: 100px;
+}
+
+#main-vis {
+    background: white;
+    position: relative; 
+    top:5px;
+    left: 10px;
+    border: 5px solid transparent;
+    padding: 15px;
+    /*border-color: rgb(73, 161, 147);*/
+}
+
+#main-background {
+    background: rgb(230, 228, 228);
+}
+
+#main-body {
+    background: rgb(230, 228, 228);
+}
+
+#side-vis {
+    background: white;
+    position: relative;
+    top: 40px;
+    right: 10px;
+    height: 400px;
+    border: 5px solid transparent;
+    padding: 15px;
+    /*border-color: rgb(73, 161, 147)*/
+}
+
+#plot-desc {
+    padding-bottom: 20px;
+}
+
+#plot-name {
+    border-bottom: gray;
+    padding-bottom: 15px;
+    color: rgb(73, 161, 147);
+    font-weight: bold;
+}
+
+#plot-links-title {
+    padding-bottom: 0px;
+    color: rgb(73, 161, 147);
+    font-weight: bold;
+}
+
+#side-plot-1 {
+    /*border: 2px solid transparent;*/
+    /*border-color: rgb(73, 161, 147);*/
+    height: 300px;
+    width: 450px;
+}
+
+#side-plot-2 {
+    /*border: 2px solid transparent;*/
+    /*border-color: rgb(73, 161, 147);*/
+    height: 300px;
+    width: 450px;
+}
+
+#side-plot-3 {
+    /*border: 2px solid transparent;*/
+    /*border-color: rgb(73, 161, 147);*/
+    height: 300px;
+    width: 450px;
+}
+
+#side-plot-4 {
+    /*border: 2px solid transparent;*/
+    /*border-color: rgb(73, 161, 147);*/
+    height: 300px;
+    width: 450px;
+}
+
+#nav-title {
+    background-color:rgb(73, 161, 147);
+    color: white;
+}
+
+#desc-part-1 {
+    position: relative;
+    right: 5px;
+    top: 5px;
+}
+
+#desc-part-2 {
+    padding-top: 15px;
+}
+
+#upper-plots {
+    padding-top: 15px;
+}
+
+#table-1 {
+    border-top: 50px;
+    padding-top: 50px;
+    margin-top: 100px;
+    color: rgb(230, 228, 228);
+}
